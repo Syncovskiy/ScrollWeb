@@ -15,7 +15,6 @@ dist/
 
 # Generated videos and release bundles
 *.mp4
-!samples/*.mp4
 *.zip
 *.sha256
 
