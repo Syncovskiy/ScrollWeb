@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build/package artifacts
+build/
+dist/
+*.egg-info/
+
+# Generated videos and release bundles
+*.mp4
+!samples/*.mp4
+*.zip
+*.sha256
+
+# Tooling/cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
