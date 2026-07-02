@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/Syncovskiy/ScrollWeb/releases/tag/v1.0.1"><img alt="Release" src="https://img.shields.io/badge/release-v1.0.1-2ea44f?style=flat-square&logo=github"></a>
+  <a href="https://github.com/Syncovskiy/ScrollWeb/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/Syncovskiy/ScrollWeb/total?style=flat-square&logo=github&label=downloads"></a>
   <a href="https://github.com/Syncovskiy/ScrollWeb/releases/download/v1.0.1/ScrollWeb.mp4"><img alt="Preview video" src="https://img.shields.io/badge/preview-MP4-ff4f8b?style=flat-square"></a>
 </p>
 
